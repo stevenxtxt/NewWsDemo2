@@ -1,0 +1,2 @@
+# NewWsDemo2
+自定义MySocketFactory继承自SSLSocketFacotry,手动设置密码套件为COM支持的加密方式
